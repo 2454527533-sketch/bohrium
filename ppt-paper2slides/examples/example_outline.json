@@ -1,0 +1,29 @@
+{
+  "_note": "本文件是【最小调用示例】，仅用于说明接口与字段，不包含任何正式案例答案，不代表真实论文内容。",
+  "title": "示例：某方法在 X 任务上的改进（示意）",
+  "subtitle": "示例作者 · 示例期刊",
+  "slides": [
+    {
+      "page": 1,
+      "layout": "title",
+      "title": "示例标题页（示意）",
+      "claim": "这是一页标题页示例",
+      "notes": "开场：一句话说明本文要解决什么问题。"
+    },
+    {
+      "page": 2,
+      "layout": "content",
+      "title": "问题与背景",
+      "claim": "现有方法在 X 场景下成本高、精度不足。",
+      "bullets": [
+        {"text": "问题定义：X 场景", "level": 0},
+        {"text": "现有方法限制", "level": 1},
+        {"text": "本文要解决的目标", "level": 0}
+      ],
+      "notes": "强调为什么现在值得做，过渡到方法页。",
+      "evidence": [
+        {"paper_page": 1, "kind": "section", "ref": "Introduction", "quote": "（示意定位）"}
+      ]
+    }
+  ]
+}
